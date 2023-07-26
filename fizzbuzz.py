@@ -6,5 +6,7 @@ for i in range(1,101):
     elif i % 5 == 0:
         print("BUZZ")
     else:
-        print(i)# add your code here
+        print(i)
+
+
 
